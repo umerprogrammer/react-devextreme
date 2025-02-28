@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.dx-pivotgrid-area-column .dx-area-field:hover {
+  background-color: #e0e0e0; /* Lighten the background on hover */
+  cursor: pointer; /* Change cursor to pointer */
+}
